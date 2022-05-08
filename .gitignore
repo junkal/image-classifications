@@ -13,6 +13,11 @@ __pycache__/
 
 # model files
 *.h5
+*.hdf5
+*.csv
+*.jpg
+*.png
+*.jpeg
 
 # Distribution / packaging
 .Python
