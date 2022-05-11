@@ -10,7 +10,7 @@ Collection of transfer learning scripts and fine tuning scripts using the [flowe
 
 ## Transfer Learning Comparisons
 |**Model**| **Accuracy Score @ 10 epochs (%)**| **Optimiser** |**Precision** | **Recall** |**F1 Score** |
-|:---: | :---: | :---:| :---:| :---:| :---:|:---:|:---:|:---:|
+|:---: | :---: | :---:| :---:| :---:| :---:|
 |VGG16|93.77|Adam |0.94| 0.94|0.94|
 |InceptionV3|96.80|Adam|0.97|0.97|0.97|
 |InceptionResnetV2|97.58|Adam|0.98|0.98|0.98|
