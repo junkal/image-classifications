@@ -1,6 +1,6 @@
 # Image Classifications
  
-Collection of transfer learning scripts and fine tuning scripts using the [flowers dataset](www.kaggle.com/dataset/e0b99652b32fe1797032b4b8a9f1d1c7ebfeb44ce03ffe9bd0695c9fd913235d) as the training & test data. Data set has 11,531 images distributed across 7 classes [daisy, dandelion, lily, orchid, rose, sunflower, tulip]. The data is split up using train\_val\_test split with 70:20:10 split ratio. All the models are trained using images resized to dimension 224 x 224.
+Collection of transfer learning scripts and fine tuning scripts using the [flowers dataset](https://www.kaggle.com/datasets/junkal/flowerdatasets) as the training & test data. Data set has 11,531 images distributed across 7 classes [daisy, dandelion, lily, orchid, rose, sunflower, tulip]. The data is split up using train\_val\_test split with 70:20:10 split ratio. All the models are trained using images resized to dimension 224 x 224.
 
 * Train Data: 8069 images
 * Validation Data: 2306 images
